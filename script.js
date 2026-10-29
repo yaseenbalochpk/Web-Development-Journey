@@ -196,7 +196,7 @@ paragraphs.forEach(function(item){
 
 heading.addEventListener("click", function(){
 
-    alert("Welcome Muhammad Yaseen!");
+
 
 });
 
@@ -340,7 +340,6 @@ console.log("CSS Completed ✅");
 console.log("JavaScript Completed ✅");
 console.log("Congratulations! Your First Web Development Journey is Complete.");
 
-alert("🎉 Congratulations Muhammad Yaseen!\nYou have completed HTML, CSS & JavaScript.");
 
 
 
